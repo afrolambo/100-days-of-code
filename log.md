@@ -8,7 +8,7 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 1: December 6th, Sunday
+### Day 1: December 6th, 2020 Sunday
 
 **Today's Progress**: 
 • Solved my first algorithm problem on LeetCode: "Remove Duplicates from Sorted Array" 
@@ -32,6 +32,20 @@
 
 **Link(s) to work**
 1. [Remove Duplicates from Sorted Array](https://leetcode.com/submissions/detail/427937155/)
+
+### Day 2: December 7th, 2020 Monday 
+
+**Today's Progress**: 
+• Solved my 2nd LeetCode problem: "Two Sum" 
+• Started learning how to create JS websocket using stream chat
+• Created a new repository to practice websockets called "Chat Cat" 
+
+**Thoughts:** 
+• I didn't get quite as much done as i wanted to today. But I am excited about getting started with websockets. I got uuid to work for the first time. Now I need to start thinking about blogs that I want to work on. Maybe I'll do a harder LeetCode problem tomorrow. 
+
+**Link to work:** 
+1. [Two Sum](https://leetcode.com/problems/two-sum/submissions/)
+2. [Chat Cat](https://github.com/afrolambo/ChatCat)
 
 ### Day 0: February 30, 2016 (Example 1)
 
