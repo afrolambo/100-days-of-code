@@ -47,6 +47,18 @@
 1. [Two Sum](https://leetcode.com/problems/two-sum/submissions/)
 2. [Chat Cat](https://github.com/afrolambo/ChatCat)
 
+### Day 3: December 8th, 2020 Tuesday
+
+**Today's Progress**: 
+Attended Data Structures and Algorithms Lecture 
+Worked on a bit of coding for Chat Cat
+
+**Thoughts:** 
+I find sticking to code to be challenging on my own. I think something I want to do is start attending meetups and small networking events like that. One it builds community and it also gives me a chance to practice code and learn different ways to solve problems. 
+
+**Link to work:** 
+1.  [Chat Cat](https://github.com/afrolambo/ChatCat)
+
 ### Day 0: February 30, 2016 (Example 1)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
