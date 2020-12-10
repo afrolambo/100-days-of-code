@@ -59,6 +59,16 @@ I find sticking to code to be challenging on my own. I think something I want to
 **Link to work:** 
 1.  [Chat Cat](https://github.com/afrolambo/ChatCat)
 
+### Day 4: December 9th, 2020 Wednesday
+
+**Today's Progress**: 
+Worked on Chat Cat, ADDED a Dashboard component and saved user id to local storage.   
+
+**Thoughts:** 
+
+**Link to work:** 
+1.  [Chat Cat](https://github.com/afrolambo/ChatCat)
+
 ### Day 0: February 30, 2016 (Example 1)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
